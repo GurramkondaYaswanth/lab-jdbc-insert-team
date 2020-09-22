@@ -1,0 +1,10 @@
+CREATE TABLE KABBADI(
+   name VARCHAR(50) NOT NULL,
+   coach VARCHAR(50) NOT NULL,
+   captain VARCHAR(50) NOT NULL,
+   cityid  NUMBER(30) NOT NULL,
+   cityname VARCHAR(50) NOT NULL
+   
+);
+
+SELECT * FROM KABBADI;
